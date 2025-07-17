@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="Trang-1" id="94uzMLs1_o3RW-zAGpia">
-    <mxGraphModel dx="1875" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-10" value="Flowchart tổng quát tích hợp Cloud" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-10" value="Flowchart tổng quát tích hợp Cloud" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=14;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="1160.0000000000005" height="1590" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i7ZkPhsIBtYQGttYs5Yl-10">
@@ -102,7 +102,7 @@
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-60" value="4.1 Hiển thị màn hình đăng nhập với danh sách tài khoản đã đăng nhập" style="html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="1040" y="315" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-61" value="4.2 Hiển thị giao diện đăng nhập&amp;nbsp;&lt;div&gt;thứ 2&lt;/div&gt;" style="html=1;whiteSpace=wrap;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-61" value="4.2 Hiển thị giao diện nhập số điện thoại&amp;nbsp;" style="html=1;whiteSpace=wrap;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="770" y="530" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-62" value="8.2 Hiển thị form nhập tay" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -132,6 +132,11 @@
             <mxPoint x="990" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-121" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Đã đăng nhập&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i7ZkPhsIBtYQGttYs5Yl-69">
+          <mxGeometry x="-0.1368" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-70" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i7ZkPhsIBtYQGttYs5Yl-60" target="i7ZkPhsIBtYQGttYs5Yl-57">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="620" y="510" as="sourcePoint" />
@@ -156,6 +161,16 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="610" y="530" as="sourcePoint" />
             <mxPoint x="825" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-124" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i7ZkPhsIBtYQGttYs5Yl-76">
+          <mxGeometry x="-0.0682" y="11" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-126" value="Chưa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="i7ZkPhsIBtYQGttYs5Yl-76">
+          <mxGeometry x="-0.0682" y="8" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-78" value="10. Hiển thị thôngbáo&amp;nbsp;&lt;div&gt;&quot;Đã lấy thông tin&lt;/div&gt;&lt;div&gt;&amp;nbsp;từ hệ thống Viettel&quot;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">

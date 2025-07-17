@@ -1,44 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="Trang-1" id="94uzMLs1_o3RW-zAGpia">
-    <mxGraphModel dx="604" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-10" value="Flowchart tổng quát tích hợp Cloud" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="1150" height="1080" as="geometry" />
+          <mxGeometry x="100" y="80" width="1220" height="1590" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i7ZkPhsIBtYQGttYs5Yl-10">
-          <mxGeometry y="30" width="1150" height="1050" as="geometry" />
+          <mxGeometry y="30" width="1220" height="1560" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="i7ZkPhsIBtYQGttYs5Yl-11">
-          <mxGeometry width="336" height="1050" as="geometry">
-            <mxRectangle width="336" height="1050" as="alternateBounds" />
+          <mxGeometry width="336" height="1560" as="geometry">
+            <mxRectangle width="336" height="1560" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="i7ZkPhsIBtYQGttYs5Yl-11">
-          <mxGeometry x="336" width="338" height="1050" as="geometry">
-            <mxRectangle width="338" height="1050" as="alternateBounds" />
+          <mxGeometry x="336" width="338" height="1560" as="geometry">
+            <mxRectangle width="338" height="1560" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="i7ZkPhsIBtYQGttYs5Yl-11">
-          <mxGeometry x="674" width="476" height="1050" as="geometry">
-            <mxRectangle width="476" height="1050" as="alternateBounds" />
+          <mxGeometry x="674" width="546" height="1560" as="geometry">
+            <mxRectangle width="546" height="1560" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="1150" height="8" as="geometry" />
+          <mxGeometry x="100" y="140" width="1220" height="8" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-16" value="User" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-17" value="Mybox" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-18" value="Viettel ID" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="110" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="30" height="30" as="geometry" />
+          <mxGeometry x="1030" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-20" value="1. Mở ứng dụng Mysign" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="230" width="110" height="50" as="geometry" />
@@ -50,10 +47,58 @@
           <mxGeometry x="480" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-24" value="Đã đăng nhập VT ID&amp;nbsp;&lt;div&gt;trên thiết bị hiện tại?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="340" width="190" height="70" as="geometry" />
+          <mxGeometry x="865" y="330" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i7ZkPhsIBtYQGttYs5Yl-25" value="Hiển thị màn hình đăng nhập với danh sách tài khoản đã đăng nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="345" width="130" height="60" as="geometry" />
+          <mxGeometry x="1150" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-26" value="Người dùng chọn tài khoản cần đăng nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-27" value="Trả token cho Mybox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-28" value="Đăng nhập thành công vào Mybox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-31" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-33" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-34" value="Hiển thị giao diện đăng nhập thứ 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="850" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-35" value="Người dùng nhập số điện thoại và chọn &quot;Tiếp tục&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-37" value="Đã có tài khoản&amp;nbsp;&lt;div&gt;VT ID?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="720" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-39" value="Tự động&lt;div&gt;xác định&lt;/div&gt;&lt;div&gt;số điện thoại?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="885" y="860" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-40" value="Là thuê bao Viettel?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1030" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-41" value="Đã xác nhận consent?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1160" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-42" value="Hiển thị thông báo đã&lt;div&gt;&quot;Đã lấy thông tin từ hệ thống Viettel&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-43" value="Gọi API lấy thông tin định danh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-44" value="Auto-fill form đăng ký" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-45" value="Người dùng xác nhận thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7ZkPhsIBtYQGttYs5Yl-46" value="Xác nhận và tạo tài khoản" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

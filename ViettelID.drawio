@@ -324,7 +324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wYM_OsTgHvhmzGDRLPJi" name="Trang-2">
-    <mxGraphModel dx="1236" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2662" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
             <mxRectangle width="386" height="1780" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sagcsTwBtufEX5khyOjL-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="T6CzTxsd6j15kOQeJUhV-5" vertex="1">
+        <mxCell id="sagcsTwBtufEX5khyOjL-3" value="Người&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="T6CzTxsd6j15kOQeJUhV-5" vertex="1">
           <mxGeometry x="773" width="387" height="1780" as="geometry">
             <mxRectangle width="387" height="1780" as="alternateBounds" />
           </mxGeometry>
